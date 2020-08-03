@@ -9,5 +9,10 @@
  * @author katie
  */
 public class Practice {
-    
+    public static void main (String []args){
+     String fName = "Kate";
+     String lName = "Hallac";
+     System.out.println("My full name is" + fName + " " + lName);
+             
+    }
 }
