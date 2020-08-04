@@ -16,9 +16,9 @@ public class ArithmeticOperator {
             double Product = (num1 * num2);
             double Divide = (num2/num1);
             System.out.println("The total weight is " + Total);
-            System.out.println("The difference between the weights is " +Diff);
-            System.out.println("The product of the weights is " +Product);
-            System.out.println("When the weights are divided, the equal " +Divide);
+            System.out.println("The difference between the weights is " + Diff);
+            System.out.println("The product of the weights is " + Product);
+            System.out.println("When the weights are divided, the equal " + Divide);
             
          }
 }
